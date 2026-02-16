@@ -1,3 +1,3 @@
 # Demo
 This is for my Training
-Author - Mohammed
+Author - Mohammed Abdullah
